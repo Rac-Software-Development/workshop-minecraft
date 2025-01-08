@@ -246,7 +246,7 @@ In dit onderdeel leren we:
 2. Hoe je het item zichtbaar maakt in de Minecraft interface.
 
 ### Voorbereiding
-Download de bestanden die je nodig hebt voor de textures van het item. Je vindt ze in de GitHub repository onder `src/main/resources/assets/loumod/textures/item`. [Download de hele textures map hier](TO-DO).
+Download de bestanden die je nodig hebt voor de textures van het item. Je vindt ze in de GitHub repository onder `src/main/resources/assets/loumod/textures/item`. [Download de hele textures map hier](https://github.com/Rac-Software-Development/workshop-minecraft/tree/master/src/main/resources/assets/loumod/textures).
 
 Voor deze stap heb je het volgende bestand nodig die in de `item` map moet:
 - `pink_garnet.png`
